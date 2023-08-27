@@ -20,7 +20,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://www.loom.com/share/8dd03d5f0ec8425b93a7f68f4788c14c?sid=c771524a-845b-4532-a40e-d03a16914624' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://www.loom.com/share/8dd03d5f0ec8425b93a7f68f4788c14c?sid=41e07621-e01c-4dfd-be3a-2d77a8bb86b0' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 MP4 created with Loom 
 
