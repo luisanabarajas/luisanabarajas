@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 # Prework - Amer
 
 Submitted by: Luisana Barajas
@@ -48,4 +48,4 @@ I tried to find some classes without looking at the GIFs provided in the CodePat
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
--->
+
